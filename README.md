@@ -1,4 +1,4 @@
-# Convergence Properties of Score-Based Models for Linear Inverse Problems Using Graduated Optimisation
+## P. Fernsel, Z. Kereta, A. Denker [*Convergence Properties of Score-Based Models for Linear Inverse Problems Using Graduated Optimisation*](https://arxiv.org/abs/2404.18699)
 
 This codebase includes the implementations for the experiments in the paper.
 
