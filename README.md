@@ -1,15 +1,9 @@
-## P. Fernsel, Z. Kereta, A. Denker [*Convergence Properties of Score-Based Models for Linear Inverse Problems Using Graduated Optimisation*](https://arxiv.org/abs/2404.18699)
+# Reference Paper
+This repository contains the codebase for the numerical experiments in the paper:
 
-This codebase includes the implementations for the experiments in the paper.
+#### P. Fernsel, Z. Kereta, A. Denker [*Convergence Properties of Score-Based Models for Linear Inverse Problems Using Graduated Optimisation*](https://arxiv.org/abs/2404.18699)
 
-
-
-
-
-
-
-
-# Citations
+## Citations
 
 If you find this work helpful please cite:
 
@@ -21,3 +15,8 @@ If you find this work helpful please cite:
   year={2024}
 }
 ```
+
+# 2D Toy Example
+The folder `2D_toy_example` contains the necessary codebase to reproduce the numerical experiments in the paper regarding the 2D inverse problem discussed in Section 4.1. Furthermore, the folder includes a README file with a detailed description of the considered 2D problem and a documentation of the codebase.
+
+# Computed Tomography
